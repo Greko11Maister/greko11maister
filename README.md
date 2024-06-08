@@ -11,7 +11,7 @@ I am Gregory Iscala, a software developer with extensive experience in leading e
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:greko11maister@gmail.com)
 
 
-# Mobile Proyects
+# Mobile Projects
 
 ### Brilla
 <img src="https://play-lh.googleusercontent.com/ytmMA6R5vAI9JqP79jLPOogYdXJ2ka0HSywX1T_7CKUE2HrwADtflwOcyKAje4ZZUQ=w240-h480-rw" alt="Descripción de la imagen" width="100" height="100">
