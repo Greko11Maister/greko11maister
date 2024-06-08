@@ -27,3 +27,16 @@ Brilla is a credit line that operates as a non-bank financing method, assigned f
 
 
 
+### Hooy
+<img src="https://play-lh.googleusercontent.com/sLkDBlqRzGR9rTKXeMr0UrAf4d_Kmr1p3ZVl8Q6zG_CXf_XLDBn80gG5reo23FPivw=w240-h480-rw" alt="Descripción de la imagen" width="100" height="100">
+
+#### Acerca de esta app
+
+Hooy goes beyond being just an app; it’s your life companion! A simple creation that includes everyone: users, shops, and restaurants. We are here to be your daily choice, bringing you your favorites faster than lightning.
+
+[PlayStore](https://play.google.com/store/apps/details?id=com.hooy.client)
+
+[AppStore](https://apps.apple.com/co/app/hooy/id1669828040?l=en-GB)
+
+
+
