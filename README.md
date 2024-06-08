@@ -3,8 +3,7 @@
 
 
 
-- 🔭 I´m currently working on a personal project
-- 🌱 I’m currently learning Data science
+I am Gregory Iscala, a software developer with extensive experience in leading engineering teams. I specialize in developing mobile applications and backend systems for various industries including e-commerce, digital wallets, satellite monitoring, logistics, and transportation.
 
 <!-- Your badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/greko11maister)
@@ -12,6 +11,19 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:greko11maister@gmail.com)
 
 
+# Mobile Proyects
+
+### Brilla
+<img src="https://play-lh.googleusercontent.com/ytmMA6R5vAI9JqP79jLPOogYdXJ2ka0HSywX1T_7CKUE2HrwADtflwOcyKAje4ZZUQ=w240-h480-rw" alt="Descripción de la imagen" width="100" height="100">
+
+#### Acerca de esta app
+
+A new way to use your Brilla credit easily, quickly, and securely.
+Brilla is a credit line that operates as a non-bank financing method, assigned for good payment behavior in gas or energy services from Gases de Occidente, Surtigas, and Compañía Energética de Occidente, allowing you to finance products and services that improve your quality of life
+
+[PlayStore](https://play.google.com/store/apps/details?id=com.promigas.brilla&hl=es_CO)
+
+[AppStore](https://apps.apple.com/co/app/brilla/id1611634489)
 
 
 
